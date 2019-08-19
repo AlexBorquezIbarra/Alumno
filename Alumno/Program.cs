@@ -10,6 +10,12 @@ namespace Alumno
     {
         static void Main(string[] args)
         {
+            Alumno alumno = new Alumno();
+
+            alumno.Nombre = "Alex";
+            alumno.Matricula = "163482";
+            alumno.Nacimiento = "13/09/97";
+            alumno.
         }
     }
 }
